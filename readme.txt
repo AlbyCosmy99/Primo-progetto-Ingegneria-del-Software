@@ -1,0 +1,1 @@
+La versione di Junit utilizzata e' quella fornita dal professore Migliardi su moodle. 
