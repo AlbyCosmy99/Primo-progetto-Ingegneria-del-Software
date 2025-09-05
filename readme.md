@@ -16,7 +16,6 @@ L’esame complessivo (progetto + parte teorica) è stato **superato con valutaz
   - `Collection`  
   - `Iterator`  
   - `ListIterator`  
-  👉 [Java 1.4.2 API](http://geas.dei.unipd.it/jdk1.4.2/docs/api/)  
 
 - Sviluppare un **adapter per l’interfaccia List**, usando come *adaptee* la classe `Vector` di CLDC 1.1.  
 - Il comportamento deve essere **compatibile con la documentazione di J2SE 1.4.2** (incluso `subList` e recursive sublisting).  
